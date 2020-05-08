@@ -1,0 +1,130 @@
+.navbar {
+   border-bottom: #e0e0e0 solid 1px;
+}
+.logo {
+   height: 50px;
+   width: auto;
+   margin-left: 100%;
+}
+.buttonstop {
+   margin-right: 15%;
+}
+.btn-primary {
+   background-color: #65c268;
+   border-color: #65c268;
+}
+.btn-primary:hover {
+   background-color: #52a354;
+   border-color: #52a354;
+}
+.btn-primary:active {
+   background-color: #52a354;
+}
+.settings {
+   background-color: #f8f9fa;
+   border: none;
+   color: black;
+}
+#comment {
+   width: 100%;
+}
+textarea.form-control {
+   height: 50px;
+   border-color: black;
+}
+button.btn.btn-light {
+   margin-top: 15px;
+   height: 10px;
+   width: 40px; 
+   border:#e6e6e6 solid 1px;  
+   padding-bottom: 30px;
+}
+.nav-pills > li {
+   float:none;
+   display:inline-block;
+   zoom:1;
+}
+.nav-pills {
+   text-align:center;
+}
+.togglethingy {
+   margin-left: 46.5%;
+   margin-top: 10px;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+   color:#fff;
+   background-color:#8c8c8c;
+}
+a {
+   color: #8c8c8c;
+}
+a:hover {
+   color: #7a7a7a;
+}
+div.col > img {
+   max-height: 90%;
+   max-width: 100%;
+   margin: 1%;
+   position: inherit;
+   border: solid #bfbfbf;
+   vertical-align: center; }
+body {
+   background-color: #e3e3e3; 
+}
+.modal-backdrop {
+position: unset!important;
+}
+.img-view-b {
+   width: 600px;
+   
+}
+
+.row {
+   width:100%
+}
+
+.container-b {
+   text-align: center;
+   border-radius: 5px;
+   margin: auto;
+   background-color: white;
+   width: 600px;
+   margin-bottom:30px;
+   margin-top: 30px;
+}
+.post-data {
+   margin-top:5px;
+}
+.post-title {
+   float:left;
+   margin-left: 10px;
+}
+.post-date {
+   float: right;
+   margin-right: 10px;
+   color: rgb(133, 133, 133)
+}
+.like-counter {
+   margin-top: 5px;
+   margin-left: 10px;
+   float: left;
+   font-weight: 600;
+}
+.post-descr {
+   text-align: left;
+   margin-top:10px!important;
+   width: 590px;
+   margin-left: auto;
+}
+.like-but {
+   float: left;
+   margin-left: 10px;
+   margin-top: 7px;
+}
+.comment-field {
+   margin-bottom: 20px;
+   margin-left:5px;
+   float: left;
+   width: 550px;
+   border:none;
+}
